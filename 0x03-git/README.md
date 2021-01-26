@@ -1,24 +1,29 @@
-Learning Objectives!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
 
-    What is vi
-    Who is Bill Joy
-    How to start and exit vi
-    What are the command and insert modes, and how to switch from one to the other
-    How to edit text
-    How to cut and paste lines
-    How to search forward and backward
-    How to undo
-    How to quit vi
+    What is source code management
+    What is Git
+    What is GitHub
+    What is the difference between Git and GitHub
+    How to create a repository
+    What is a README
+    How to write good READMEs
+    How to commit
+    How to write helpful commit messages
+    How to push code
+    How to pull updates
+    How to create a branch
+    How to merge branches
+    How to work as collaborators on a project
+    Which files should and which files should not appear in your repo
 
 Requirements
 General
 
-    Allowed editors: vi
     A README.md file at the root of the holbertonschool-zero_day repo, containing a description of the repository
-    A README.md file, at the root of the folder of this project (i.e. 0x02-vi), describing what this project is about
-    If the answer of one of the following questions needs the Return key, then use the string <Return>. Example: What is the command to write current contents to a file named in the original vi call? The answer should be exactly :w<Return>. Note that there is no space between w and <Return>
-    Your file should only contain the command, and nothing else
+    A README.md file, at the root of the folder of this project (i.e. 0x03-git), describing what this project is about
+    Do not use GitHub’s web UI, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web UI). You won’t be able to perform many of the task requirements on the web UI, and you should start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.
+    Your answer files should only contain the command, and nothing else
 
